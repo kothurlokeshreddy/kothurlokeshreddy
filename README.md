@@ -14,7 +14,7 @@
 
 ## 🎯 Tech Stack & Latest Blogs
 
-![Tech Stack Animation](./Skills_Animation_White.gif)
+![Tech Stack Animation](./Skills_Animation_Dark.gif)
 
 ### 🚀 Current Learning
 - Deepening my knowledge in Machine Learning and AI.
