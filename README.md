@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokesh Reddy</h1>
+<h1 align="center">Hi 👋, I'm Lokesh Reddy Kothur</h1>
 <h3 align="center">AI & Data Science Enthusiast | Full Stack Developer | Lifelong Learner</h3>
 
 ---
@@ -34,13 +34,17 @@
 </ul>
 </div>
 
+<br />
+<br />
+<br />
+
 ---
 
 🧰 **Projects**
 
-- **Cloud Optimization via Data Center Load Balancing:** This project focuses on designing and implementing an efficient load balancing algorithm tailored for cloud data centers. The goal is to enhance the performance and resource utilization of cloud computing applications by distributing workloads intelligently across multiple servers.
-- **Phishing Website Detection using Machine Learning:** This project aims to develop a machine learning-based system to detect phishing websites by analyzing various website features such as URL structure, domain information, and webpage content. By training classification models on a labeled dataset of legitimate and phishing sites, the system can accurately predict the likelihood of a site being malicious.
-- **Responsive E-commerce Web Application using React.js** This project involves the development of a fully responsive and dynamic e-commerce web application using React.js. The application features a modern UI/UX with components such as product listings, detailed product pages, shopping cart, user authentication, and order management.
+- **Cloud Optimization via Data Center Load Balancing:** This project focuses on designing and implementing an efficient load balancing algorithm tailored for cloud data centers.
+- **Phishing Website Detection using Machine Learning:** This project aims to develop a machine learning-based system to detect phishing websites by analyzing various website features such as URL structure, domain information, and webpage content.
+- **Responsive E-commerce Web Application using React.js** This project involves the development of a fully responsive and dynamic e-commerce web application using React.js.
 
 ---
 
