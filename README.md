@@ -14,7 +14,12 @@
 
 ## 🎯 Tech Stack & Latest Blogs
 
-![Tech Stack Animation](./Skills_Animation_Dark.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
 ### 🚀 Current Learning
 - Deepening my knowledge in Machine Learning and AI.
